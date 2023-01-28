@@ -1,0 +1,28 @@
+{
+    "1": {
+        "name": "ANC Headphones",
+        "description": "Focus on your music--and only your music--with these headphones!",
+        "price": 99000,
+        "cost": 50000,
+        "stock": 10,
+        "salesCount": 0
+    },
+
+    "2": {
+        "name": "USB-C Fast Charger",
+        "description": "Power up your life with this charger!",
+        "price": 49000,
+        "cost": 25000,
+        "stock": 20,
+        "salesCount": 150
+    },
+
+    "3": {
+        "name": "Over-9000 Powerbank",
+        "description": "Keep your devices working for as long as you do with this powerbank!",
+        "price": 149000,
+        "cost": 90000,
+        "stock": 5,
+        "salesCount": 10
+    }
+}
